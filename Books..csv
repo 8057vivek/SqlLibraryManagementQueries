@@ -1,0 +1,51 @@
+BookID,Title,AuthorID,GenreID,PublishedYear
+1,Moby Dick,1,1,1851
+2,War and Peace,2,2,1869
+3,Pride and Prejudice,3,4,1813
+4,The Great Gatsby,4,20,1925
+5,1984,5,24,1949
+6,Hamlet,6,10,1600
+7,The Odyssey,7,7,-800
+8,Crime and Punishment,8,17,1866
+9,Don Quixote,9,11,1605
+10,In Search of Lost Time,10,5,1913
+11,The Divine Comedy,11,9,1320
+12,The Catcher in the Rye,12,33,1951
+13,Brave New World,13,24,1932
+14,The Brothers Karamazov,14,21,1880
+15,Ulysses,15,5,1922
+16,The Illiad,16,7,-750
+17,The Sound and the Fury,17,21,1929
+18,Anna Karenina,18,4,1877
+19,The Lord of the Rings,19,6,1954
+20,Harry Potter and the Sorcerer's Stone,20,6,1997
+21,To Kill a Mockingbird,21,20,1960
+22,The Hobbit,22,6,1937
+23,The Stranger,23,14,1942
+24,The Picture of Dorian Gray,24,16,1890
+25,Dracula,25,18,1897
+26,The Trial,26,17,1925
+27,Fahrenheit 451,27,24,1953
+28,Heart of Darkness,28,15,1899
+29,Les Misérables,29,12,1862
+30,The Count of Monte Cristo,30,15,1844
+31,Madame Bovary,31,14,1856
+32,One Hundred Years of Solitude,32,13,1967
+33,Frankenstein,33,18,1818
+34,The War of the Worlds,34,3,1898
+35,The Metamorphosis,35,24,1915
+36,A Tale of Two Cities,36,12,1859
+37,The Adventures of Huckleberry Finn,37,20,1884
+38,The Scarlet Letter,38,16,1850
+39,Gone with the Wind,39,20,1936
+40,The Old Man and the Sea,40,4,1952
+41,Slaughterhouse-Five,41,32,1969
+42,The Grapes of Wrath,42,32,1939
+43,On the Road,43,34,1957
+44,Lolita,44,14,1955
+45,Wuthering Heights,45,16,1847
+46,The Bell Jar,46,21,1963
+47,The Shining,47,18,1977
+48,The Hunchback of Notre-Dame,48,12,1831
+49,The Catch-22,49,32,1961
+50,Great Expectations,50,12,1861
